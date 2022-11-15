@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">FieldEzApp</string>
+    <string name="user_name">User Name</string>
+    <string name="password">Password</string>
+    <string name="forget_password">Forget Password?</string>
+    <string name="login">Login</string>
+    <string name="login_as_different_user">Login as different user</string>
+    <string name="app_usage_policy_will_be_as_per_fieldez_s_terms_of_services">App usage policy will be as per fieldEZ\'s Terms of services</string>
+    <string name="u00a9_2019_fieldez_all_rights_reserved_t_t_version_3_5_1">© 2019 FieldEZ. All Rights Reserved \t \t Version 3.5.1</string>
+    <string name="user">User</string>
+    <string name="filter">Filter</string>
+    <string name="search">Search</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="service">Service</string>
+</resources>
